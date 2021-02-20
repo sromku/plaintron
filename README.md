@@ -1,2 +1,2 @@
 # plaintron
-Simplifies day to day overcomplicated workflows
+Simplifies day to day overcomplicated workflows, kids can understand
